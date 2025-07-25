@@ -1,4 +1,4 @@
-#  TweetKarr
+#  TweetKarr 👨🏻‍💻
 **TweetKarr** is a minimalist tweet-posting web application built with **Django** and styled using **Tailwind CSS** and Bootstrap. Users can register, log in, create, edit, delete, and view tweets, with optional image attachments. The UI is responsive and designed for a clean, professional look.
 
 ---
