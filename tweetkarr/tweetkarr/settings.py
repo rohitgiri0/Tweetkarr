@@ -133,4 +133,3 @@ LOGIN_URL='/accounts/login'
 LOGOUT_REDIRECT_URL='/tweet/'
 LOGIN_REDIRECT_URL='/tweet/'
 
-ALLOWED_HOSTS = ['https://tweetkarr-production.up.railway.app/', '127.0.0.1', 'localhost']
